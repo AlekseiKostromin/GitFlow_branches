@@ -1,3 +1,6 @@
 def title_line():
-    pass
+    input()
+    print(input())
+title_line()
+
 
